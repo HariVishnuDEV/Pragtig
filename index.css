@@ -1,0 +1,427 @@
+.containerr {
+  background-image: url(s3.webp);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition-duration: 5s;
+  transform: translate3d(0px, 1px ,0px);
+  transform-origin: 0% 0% 0px;
+  width: 100%;
+
+
+}
+
+.class {
+  display: grid;
+  grid-template-columns: 700px 150px 180px 100px 100px;
+  gap: 20px;
+  border-style:solid;
+  border-width:1px;
+  padding-top: 10px;
+  position:sticky;
+  top: 0px;
+  background-color: rgb(233, 240, 240);
+  color: #f1f1f1;
+  font-weight: bolder;
+}
+
+
+
+.log{
+  height: 140px;
+  padding-top: 0px !important;
+  gap: 0px;
+}
+
+.A{
+  margin-top: 27px;
+  color: black;
+}
+
+.A:hover{
+  color: rgb(241, 63, 9);
+}
+.A-content a:hover {
+  color: rgb(95, 85, 85);}
+
+.A:hover .dropdown-content {
+  display:block;
+}
+
+.A:hover .dropbtn {
+  color: #3e8e41;
+}
+
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.A {
+  position: relative;
+  display: inline-block;
+}
+
+.A-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.A-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+.B {
+  padding-left: 200px;
+  padding-top: 30px;
+
+}
+.Ba {
+  width: 29%;
+  font-family: "Franklin Gothic Medium", 
+  "Arial Narrow", Arial, sans-serif;
+  font-size: 60px;
+  margin-left: 190px;
+  margin-top:1%;
+padding-left: 10px;
+font-weight: bolder;
+
+}
+
+.logo2{
+  display: flex;
+  margin-top: 50px;
+  margin-left: 490px;
+  height: 30vh;
+}
+
+
+.content{
+  text-align: center;
+  font-size: 35px;
+  margin: 20px;
+  font-weight: bolder;
+
+
+}
+.button{
+  background-color: red;
+  height: 50px;
+  width: 150px;
+  color: aliceblue;
+  border: none;
+  font-size: 16px;
+  border-radius: 4px;
+
+}
+
+.icons{
+  font-size: 30px;
+  padding: 20px;
+  }
+  
+.font{
+  justify-content: center;
+  text-align: start;
+  margin-left: 10%;
+  margin-right: 10%;
+} 
+
+body {
+  margin: 0px ;
+}
+.span{
+  font-size: larger; 
+  font-weight: bolder;
+  
+}
+.immg{
+  background-image: url(vv.webp);
+  height: 800px;
+  display: flex;
+  background-position:initial ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+.rec {
+  width: 96%;
+  height: 500px;
+  margin-top: 1px;
+  padding-left: 2px;
+  position: absolute; /* Position 'rec' absolutely within 'immg' */
+  left: 40px;
+  border-radius: 40%;
+}
+
+
+
+  .recc{
+    width: 90%;
+    height: 609px;
+    margin-bottom: 0px;
+    margin-top: 136px;
+    padding-left: 2px;
+
+
+
+  }
+  
+.letter{
+  color: antiquewhite;
+  position:absolute;
+  font-size: 14px;
+}
+.head{
+font-size: 30px;
+justify-content: center;
+text-align: center;
+display: flex ;
+}
+
+.headd{
+  font-size: 18px;
+  margin-left: 100px;
+  text-align: center;
+  display: flex ;
+  font-weight: bolder;
+  
+
+}
+
+.ppp{
+  background-color: rgba(40, 42, 43, 0.856);
+  height: 100px;
+  color: aliceblue;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  justify-content: center;
+text-align: center;
+padding-top: 30px;
+}
+.ppp:hover{
+
+background-color: brown;
+
+}
+
+.imac{
+  background-image: url(imac.webp);
+  margin-left: 150px;
+  width: 600px;
+  height: 500px;
+  
+}
+.imp{
+  color: rgb(6, 74, 133);
+  margin-left: 650px;
+  width: 550px;
+  height: 100px;
+  font-size: 30px;
+  padding-top: 60px;
+  font-weight: bolder;
+}
+.imppp{
+  color: rgb(6, 74, 133);
+  margin-left: 650px;
+  width: 550px;
+  height: 100px;
+  font-size: 20px;
+  padding-bottom: 60px;
+}
+
+.more{
+  color: rgb(21, 22, 22);
+  margin-left: 800px;
+  width: 200px;
+  height: 40px;
+  margin-top: 60px;
+
+}
+
+
+.abb{
+  background-image: url(Untitled\ design\ \(2\).png);
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+.Dig{
+  color: rgb(231, 181, 15);
+  font-size: 50px;
+  margin-left: 400px;
+  font-weight: 800;
+  border-radius: 10px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  animation-name: round;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+
+}
+@keyframes round{
+  0%{
+    color: blue;
+  }
+  50%{
+    color: chartreuse;
+  }
+}
+
+
+.aim{
+  color: rgb(243, 238, 239);
+  margin-top: 450px;
+  margin-left: 700px;
+  font-size: 28px;
+  justify-content: center;
+  font-weight: 800;
+  border-radius: 10px;
+  animation-name: circle;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+
+}
+@keyframes circle{
+  0%{
+    background-color: blue;
+  }
+  50%{
+    background-color: chartreuse;
+  }
+}
+
+.get{
+  color: rgb(12, 52, 228);
+  margin-left: 930px;
+  text-align: center;
+  border-radius: 5px;
+  width: 150px;
+  height: 50px;
+  font-weight: 800;
+
+
+}
+  
+.subb{
+  background-color: rgb(241, 235, 227);
+  height: 250px;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.ss{
+  font-size: 25px;
+  font-weight: 800;
+  margin-top: 60px;
+  height: 90px;
+  padding-top: 60px;
+
+}
+
+
+.cmd{
+  display: flex;
+  margin-left: 400px;
+  padding-top: 60px;
+}
+.icon{
+  font-size: 30px;
+}
+
+
+input{
+  height: 40px;
+  width: 400px;
+}
+.btn{
+  height: 40px;
+  background-color: rgb(143, 143, 150);
+  color: rgb(243, 235, 235);
+}
+
+
+.wee{
+  height: 300px;
+  background-color: rgb(7, 7, 7);
+  color: aliceblue;
+  display: flex;
+  font-size: 20px;
+  margin-top: 100px;
+  padding-left: 100px;
+  font-size: 15px;
+  justify-content: center;
+
+
+
+}
+
+.aa{
+  padding: 60px;
+  width: 400px;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.bb{
+  padding: 0px;
+  height: 150px;
+  width: 990px;
+  background-image: url(map.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top:60px;
+  justify-content: center;
+  text-align: center;
+
+
+
+
+}
+
+.cc{
+  padding: 60px;
+  width: 800px;
+  justify-content: center;
+text-align: center;
+
+
+
+}
+
+.headi{
+  font-size:  30px;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.copy{
+  background-color:rgba(0, 0, 0, 0.945);
+  height: 100px;
+  padding-top: 30px;
+  padding-left: 100px;
+  color: aliceblue;
+}
